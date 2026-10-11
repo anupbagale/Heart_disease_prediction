@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+results_quick/
+.venv/
+.DS_Store
