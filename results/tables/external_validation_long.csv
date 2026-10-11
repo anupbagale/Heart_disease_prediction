@@ -1,0 +1,361 @@
+validation,feature_set,model,test_site,metric,estimate,ci_low,ci_high,model_name,test_site_name
+Cleveland -> site,All 13 features,logreg,hungarian,AUC,0.8935166599759133,0.8512984243275793,0.9303505118426335,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Sensitivity,0.5849056603773585,0.49056603773584906,0.6792452830188679,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Specificity,0.9627659574468085,0.9361702127659575,0.9893617021276596,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Accuracy,0.826530612244898,0.7891156462585034,0.8639455782312925,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Brier,0.1326332243011626,0.11419208758779183,0.15249363453306208,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Calibration intercept,0.45442002161919964,0.32501621948782283,0.5844919381870888,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Calibration slope,1.5509106564178885,1.2557839278689469,1.9435781914350843,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Mean predicted risk,0.29053773559373275,0.2705997689647916,0.31021517552148875,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Logistic regression,Hungary
+Cleveland -> site,All 13 features,logreg,switzerland,AUC,0.7478260869565218,0.5478260869565217,0.9130706521739128,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Sensitivity,0.5217391304347826,0.43478260869565216,0.6086956521739131,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Specificity,0.875,0.625,1.0,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Accuracy,0.5447154471544715,0.4634146341463415,0.6341463414634146,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Brier,0.27244759791626,0.23236374921559744,0.31242145674744537,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Calibration intercept,3.2098638933866748,2.9678054091172617,3.4472542407928435,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Calibration slope,0.9015959328678291,0.19972120074302344,1.9218719046822306,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Mean predicted risk,0.5093399215923504,0.4697633989972531,0.5493660523691674,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Logistic regression,Switzerland
+Cleveland -> site,All 13 features,logreg,va,AUC,0.7028556388998553,0.618239242005527,0.7802375312541123,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Sensitivity,0.48322147651006714,0.40268456375838924,0.5637583892617449,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Specificity,0.8431372549019608,0.7450980392156863,0.9411764705882353,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Accuracy,0.575,0.51,0.64,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Brier,0.2880544688195254,0.25669782549877523,0.3194512498029228,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Calibration intercept,1.7757387029658063,1.608432608851467,1.9155119978450368,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Calibration slope,0.6884975282679279,0.389260209320763,1.046203159309519,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Mean predicted risk,0.4226824238883071,0.39216530768721203,0.45586307162032186,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,logreg,va,Observed prevalence,0.745,0.745,0.745,Logistic regression,VA Long Beach
+Cleveland -> site,All 13 features,rf,hungarian,AUC,0.8999397832195906,0.8592821657968688,0.9349194600562023,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Sensitivity,0.49056603773584906,0.39622641509433965,0.5849056603773585,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Specificity,0.9680851063829787,0.9414893617021277,0.9893617021276596,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Accuracy,0.7959183673469388,0.7585034013605442,0.8299319727891157,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Brier,0.14156041999342694,0.12678268477150456,0.15742687252360818,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Calibration intercept,0.44600063903728854,0.3453669057870717,0.545735153683964,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Calibration slope,1.9334067344320913,1.5077301224674078,2.5066168108199447,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Mean predicted risk,0.28437271772439804,0.2684325012112387,0.3011244930966083,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Random forest,Hungary
+Cleveland -> site,All 13 features,rf,switzerland,AUC,0.7739130434782608,0.6054076086956521,0.9326358695652172,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Sensitivity,0.46956521739130436,0.3826086956521739,0.5652173913043478,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Specificity,0.75,0.375,1.0,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Accuracy,0.4878048780487805,0.3983739837398374,0.5772357723577236,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Brier,0.2708241158663814,0.23808151213243833,0.3040162557878013,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Calibration intercept,3.0518847311900497,2.8852312037155414,3.2112724572854634,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Calibration slope,1.5271721306755872,0.5988653398373457,3.5442417065621994,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Mean predicted risk,0.4959065368913127,0.4612222421225316,0.5320270089167675,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Random forest,Switzerland
+Cleveland -> site,All 13 features,rf,va,AUC,0.7222002895117778,0.6390051322542439,0.799059086721937,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Sensitivity,0.4697986577181208,0.38926174496644295,0.5503355704697986,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Specificity,0.8627450980392157,0.7647058823529411,0.9411764705882353,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Accuracy,0.57,0.505,0.635,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Brier,0.2774005292686295,0.25009200258716013,0.30452794081994633,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Calibration intercept,1.6400584683587935,1.509287807106176,1.754485001613665,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Calibration slope,0.9326736681949056,0.5207152583255475,1.4379496775736742,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Mean predicted risk,0.42330887668710687,0.39779495416253646,0.4510023800494712,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,rf,va,Observed prevalence,0.745,0.745,0.745,Random forest,VA Long Beach
+Cleveland -> site,All 13 features,xgb,hungarian,AUC,0.895875150541951,0.8551786431152147,0.930250150541951,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Sensitivity,0.6037735849056604,0.5186320754716981,0.6981132075471698,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Specificity,0.9468085106382979,0.9095744680851063,0.9735372340425525,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Accuracy,0.8231292517006803,0.7856292517006802,0.8605442176870748,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Brier,0.1303626922505657,0.10971736671886168,0.15186360038851227,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Calibration intercept,0.6743773143631305,0.4800655439689366,0.8635072231673134,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Calibration slope,1.1098224022500036,0.9009229826213467,1.381897723847709,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Mean predicted risk,0.27695292234420776,0.25457821860909463,0.300332735478878,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,XGBoost,Hungary
+Cleveland -> site,All 13 features,xgb,switzerland,AUC,0.7652173913043478,0.575,0.9391304347826087,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Sensitivity,0.5565217391304348,0.46956521739130436,0.6521739130434783,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Specificity,0.75,0.375,1.0,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Accuracy,0.5691056910569106,0.4878048780487805,0.6585365853658537,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Brier,0.28247892704716765,0.23752080341822338,0.32912222640101363,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Calibration intercept,3.4435018633258894,3.1609518573550233,3.7132680537505434,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Calibration slope,0.8692463965326143,0.2898542936960427,2.109046846713787,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Mean predicted risk,0.5168508291244507,0.46925062984228133,0.5660782560706138,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,XGBoost,Switzerland
+Cleveland -> site,All 13 features,xgb,va,AUC,0.7186471904197921,0.6291617318068167,0.8010297407553625,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Sensitivity,0.4429530201342282,0.3624161073825503,0.5234899328859061,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Specificity,0.803921568627451,0.6862745098039216,0.9019607843137255,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Accuracy,0.535,0.47,0.6,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Brier,0.31071284079778083,0.2721833256209618,0.3496467903246863,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Calibration intercept,2.1576075998425086,1.9213763055090074,2.3633435269073497,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Calibration slope,0.5053467960692288,0.26849941628730023,0.8063270974073786,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Mean predicted risk,0.40820199251174927,0.3712813049554825,0.4474150292575359,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,xgb,va,Observed prevalence,0.745,0.745,0.745,XGBoost,VA Long Beach
+Cleveland -> site,All 13 features,mlp,hungarian,AUC,0.889953833801686,0.8461423625050181,0.928595443596949,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Sensitivity,0.6037735849056604,0.5094339622641509,0.6889150943396213,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Specificity,0.9468085106382979,0.9095744680851063,0.9787234042553191,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Accuracy,0.8231292517006803,0.782312925170068,0.8605442176870748,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Brier,0.13006075572565462,0.10882694021602672,0.15337479890171324,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Calibration intercept,0.6237139969964036,0.4500786506254547,0.7969744750274576,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Calibration slope,1.2122958402105357,0.9876423764396867,1.504017549743115,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Mean predicted risk,0.2798110632148094,0.25694729850917075,0.3025097200034829,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Neural network (MLP),Hungary
+Cleveland -> site,All 13 features,mlp,switzerland,AUC,0.7478260869565218,0.5532608695652174,0.9087228260869563,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Sensitivity,0.5130434782608696,0.4260869565217391,0.6086956521739131,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Specificity,0.875,0.625,1.0,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Accuracy,0.5365853658536586,0.45528455284552843,0.6260162601626016,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Brier,0.28613634986938247,0.23838881068092008,0.33338721176899977,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Calibration intercept,3.4470550310669195,3.159978849962977,3.716572725469827,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Calibration slope,0.6890581556545154,0.14234629302166468,1.5555188524225985,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Mean predicted risk,0.5138949969984515,0.4672533238071809,0.5614865778051327,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Neural network (MLP),Switzerland
+Cleveland -> site,All 13 features,mlp,va,AUC,0.6994341360705356,0.6163771548888012,0.7743189893407026,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Sensitivity,0.4697986577181208,0.38926174496644295,0.5503355704697986,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Specificity,0.8235294117647058,0.7254901960784313,0.9215686274509803,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Accuracy,0.56,0.495,0.625,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Brier,0.31466296797656834,0.2772925258667155,0.3531622137818687,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Calibration intercept,2.1325005660817897,1.910469668177111,2.3093436841737156,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Calibration slope,0.5237944547035677,0.2907383321315395,0.790571032291801,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Mean predicted risk,0.40282396031266515,0.366509556109986,0.44161681838296374,Neural network (MLP),VA Long Beach
+Cleveland -> site,All 13 features,mlp,va,Observed prevalence,0.745,0.745,0.745,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,AUC,0.8782115616218387,0.8303881473303893,0.9171040746688077,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Sensitivity,0.7830188679245284,0.6981132075471698,0.8584905660377359,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Specificity,0.8191489361702128,0.7659574468085106,0.8776595744680851,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Accuracy,0.8061224489795918,0.7619047619047619,0.8469387755102041,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Brier,0.1327810097331015,0.1096955787251395,0.15749612565146892,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Calibration intercept,-0.4948770387563696,-0.7191072215242844,-0.26828946789244323,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Calibration slope,0.9133262200565626,0.7234170937291649,1.1621279199263443,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Mean predicted risk,0.4223703939578168,0.394499687690784,0.45059334929452616,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Logistic regression,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,AUC,0.7576086956521739,0.6184782608695653,0.8923913043478261,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Sensitivity,0.7739130434782608,0.6956521739130435,0.8434782608695652,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Specificity,0.5,0.125,0.875,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Accuracy,0.7560975609756098,0.6829268292682927,0.8292682926829268,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Brier,0.1602688498164589,0.12311202466391806,0.19956601725380238,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Calibration intercept,2.598699791297845,2.1708425684338915,3.0204047947862978,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Calibration slope,0.5852160804066566,0.20229299371830994,1.0763100237938226,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Mean predicted risk,0.6920823534928479,0.6441214242278677,0.7345665521058204,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Logistic regression,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,AUC,0.7369390709303856,0.6513949203842611,0.8133964995394131,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Sensitivity,0.8523489932885906,0.7919463087248322,0.9060402684563759,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Specificity,0.47058823529411764,0.3333333333333333,0.6078431372549019,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Accuracy,0.755,0.695,0.805,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Brier,0.1737598091077877,0.14478473495879873,0.20519168553261552,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Calibration intercept,0.30463947251788637,0.0443947314627419,0.5315441831070302,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Calibration slope,0.5675386317675607,0.3432696653606707,0.8275016145356205,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Mean predicted risk,0.703866254954943,0.6714512350714695,0.7391542118306282,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",logreg,va,Observed prevalence,0.745,0.745,0.745,Logistic regression,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,AUC,0.8872440786832597,0.841929696908872,0.9235773785628262,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Sensitivity,0.7169811320754716,0.6320754716981132,0.8018867924528302,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Specificity,0.898936170212766,0.8563829787234043,0.9414893617021277,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Accuracy,0.8333333333333334,0.7925170068027211,0.8741496598639455,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Brier,0.1320428483482167,0.11359090526543277,0.15233873776151788,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Calibration intercept,-0.3814761907324101,-0.5262088105095817,-0.236836453738614,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Calibration slope,1.396955301287597,1.1136999888610215,1.7579128835223332,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Mean predicted risk,0.4228195193690947,0.3995121175481957,0.4454129251322426,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Random forest,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,AUC,0.7771739130434783,0.5826086956521739,0.9424184782608694,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Sensitivity,0.6782608695652174,0.591304347826087,0.7652173913043478,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Specificity,0.625,0.25,0.875,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Accuracy,0.6747967479674797,0.5934959349593496,0.7560975609756098,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Brier,0.17978784374904125,0.15362511262568862,0.20581888286529038,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Calibration intercept,2.4909159055088104,2.32770947777887,2.648400394882754,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Calibration slope,1.5666773427233571,0.5626327849854093,3.909061639709272,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Mean predicted risk,0.6049642308449711,0.5711464819601256,0.6371848036005272,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Random forest,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,AUC,0.7508882747729965,0.6702033162258192,0.8236642979339387,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Sensitivity,0.7986577181208053,0.7315436241610739,0.8590604026845637,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Specificity,0.5294117647058824,0.39215686274509803,0.6666666666666666,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Accuracy,0.73,0.67,0.785,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Brier,0.18253924352207376,0.1574555275993555,0.2091596926075615,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Calibration intercept,0.7446665940493625,0.5781024638821262,0.8862962206308249,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Calibration slope,0.8503110730588762,0.5358940878887763,1.258765818461889,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Mean predicted risk,0.6179867011719103,0.590590475870933,0.6486479093887919,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",rf,va,Observed prevalence,0.745,0.745,0.745,Random forest,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,AUC,0.8801686069851465,0.8334441489361702,0.9170049678843838,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Sensitivity,0.7452830188679245,0.660377358490566,0.8301886792452831,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Specificity,0.8457446808510638,0.7925531914893617,0.8936170212765957,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Accuracy,0.8095238095238095,0.7653061224489796,0.8503401360544217,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Brier,0.1344596780091988,0.11106951453386119,0.1607131577993923,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Calibration intercept,-0.4820643078546843,-0.7343503029378319,-0.23704339483300743,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Calibration slope,0.8609655169015149,0.6910651833599843,1.0721700688368676,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Mean predicted risk,0.41822630167007446,0.3893370047211647,0.4473107688128947,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,XGBoost,Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,AUC,0.7619565217391304,0.5422554347826087,0.933695652173913,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Sensitivity,0.782608695652174,0.7043478260869566,0.8523913043478248,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Specificity,0.625,0.25,0.875,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Accuracy,0.7723577235772358,0.6991869918699187,0.8455284552845529,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Brier,0.15795479677135862,0.12570004648961716,0.19358837845943289,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Calibration intercept,2.451073726860259,2.177345064417253,2.72960092227792,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Calibration slope,0.7989692150809923,0.13484024913112916,1.9274232397158346,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Mean predicted risk,0.667788565158844,0.6246383026242256,0.7076304018497467,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,XGBoost,Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,AUC,0.7507566785103303,0.6666600868535333,0.8280119094617713,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Sensitivity,0.8523489932885906,0.7919463087248322,0.9060402684563759,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Specificity,0.5490196078431373,0.4117647058823529,0.6666666666666666,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Accuracy,0.775,0.7198749999999999,0.83,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Brier,0.16941284044716842,0.13974001700277303,0.19973318307706947,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Calibration intercept,0.40676853264522383,0.16607276117239433,0.6250228123369153,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Calibration slope,0.616524716215351,0.3799003319806588,0.9262000598177289,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Mean predicted risk,0.6880019307136536,0.6550168052315712,0.7218424379825592,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",xgb,va,Observed prevalence,0.745,0.745,0.745,XGBoost,VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,AUC,0.8789642713769571,0.8331430650341229,0.9174653753512645,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Sensitivity,0.7735849056603774,0.6886792452830188,0.8490566037735849,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Specificity,0.851063829787234,0.8031914893617021,0.898936170212766,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Accuracy,0.8231292517006803,0.7789115646258503,0.8639455782312925,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Brier,0.13150479335525084,0.11025799341655716,0.15473967010484774,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Calibration intercept,-0.4265077838056442,-0.6194762272085611,-0.22956444719204552,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Calibration slope,1.0449544793761625,0.8374066120788222,1.3164367298974524,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Mean predicted risk,0.4188620341735597,0.3925760768995838,0.4453893572822071,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Neural network (MLP),Hungary
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,AUC,0.758695652173913,0.6151902173913043,0.8956521739130435,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Sensitivity,0.7565217391304347,0.6780434782608695,0.8347826086956521,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Specificity,0.625,0.25,0.875,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Accuracy,0.7479674796747967,0.6747967479674797,0.8211382113821138,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Brier,0.16199587639289673,0.12769416114940194,0.19759040579757706,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Calibration intercept,2.5429226112065764,2.1932171119200152,2.89317208405568,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Calibration slope,0.7135680472495298,0.23261141281615844,1.2840005987903658,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Mean predicted risk,0.669886120923632,0.6256081631187187,0.708634511159514,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Neural network (MLP),Switzerland
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,AUC,0.7381234372943808,0.652839189367022,0.814061060665877,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Sensitivity,0.8523489932885906,0.7919463087248322,0.9060402684563759,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Specificity,0.45098039215686275,0.3137254901960784,0.5686274509803921,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Accuracy,0.75,0.69,0.8,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Brier,0.1745439770127897,0.1474451281910068,0.20478250297131204,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Calibration intercept,0.45212289952298496,0.23432676515113912,0.6467089900209835,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Calibration slope,0.6660074401295568,0.4090742686855058,0.963965329299547,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Mean predicted risk,0.677584196789762,0.6469020566422097,0.7106973751029512,Neural network (MLP),VA Long Beach
+Cleveland -> site,"10 features (no slope, ca, thal)",mlp,va,Observed prevalence,0.745,0.745,0.745,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,AUC,0.8687050359712231,0.8265452272328478,0.9084554307773294,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Sensitivity,0.8561151079136691,0.7985611510791367,0.9136690647482014,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Specificity,0.6951219512195121,0.6219512195121951,0.7682926829268293,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Accuracy,0.768976897689769,0.7194719471947195,0.8151815181518152,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Brier,0.15803357251150205,0.13583066829956278,0.18032032717755822,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Calibration intercept,-0.5334419581801796,-0.6756937521917278,-0.39133804389974575,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Calibration slope,1.2518722987263742,1.0035568964226425,1.6015188666462663,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Mean predicted risk,0.5484334276006969,0.5247117656202066,0.5732619860381676,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,cleveland,Observed prevalence,0.45874587458745875,0.45874587458745875,0.45874587458745875,Logistic regression,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,AUC,0.8883480529907668,0.8445641810517864,0.9237818647129666,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Sensitivity,0.8679245283018868,0.7924528301886793,0.9245283018867925,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Specificity,0.7606382978723404,0.6968085106382979,0.8191489361702128,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Accuracy,0.7993197278911565,0.7517006802721088,0.8435374149659864,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Brier,0.14742241737501444,0.12399401913067583,0.17326029930181028,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Calibration intercept,-0.9848031192311953,-1.1886076868220745,-0.7740376041428325,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Calibration slope,1.0261107162349101,0.8255472424267714,1.2872973886509032,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Mean predicted risk,0.4929188507489298,0.4655605954762061,0.5203728094408505,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Logistic regression,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,AUC,0.7326086956521739,0.5195652173913043,0.914157608695652,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Sensitivity,0.7478260869565218,0.6608695652173913,0.8260869565217391,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Specificity,0.625,0.25,0.875,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Accuracy,0.7398373983739838,0.6585365853658537,0.8130081300813008,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Brier,0.18480696699662388,0.14727177143723763,0.22327751781418662,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Calibration intercept,2.745435691416726,2.4236760176944934,3.0633929941768674,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Calibration slope,0.6912846252214312,0.1445635921088839,1.515333986874845,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Mean predicted risk,0.6365320344865332,0.5911595028849211,0.6787699067908542,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Logistic regression,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,AUC,0.7507566785103303,0.6652158178707726,0.8251118568232662,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Sensitivity,0.8590604026845637,0.7986577181208053,0.912751677852349,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Specificity,0.43137254901960786,0.29411764705882354,0.5490196078431373,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Accuracy,0.75,0.695,0.8001249999999993,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Brier,0.16540859665133353,0.1376287933381279,0.19640413733346052,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Calibration intercept,0.09264728956662853,-0.16753953093399374,0.3356744449136542,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Calibration slope,0.5993062037535708,0.3837749176785017,0.850795109589788,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Mean predicted risk,0.7331711632371832,0.7015287947126062,0.7655625698835561,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",logreg,va,Observed prevalence,0.745,0.745,0.745,Logistic regression,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,AUC,0.8640550973855062,0.8200122828566415,0.905423100543955,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Sensitivity,0.8992805755395683,0.8489208633093526,0.9424460431654677,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Specificity,0.5609756097560976,0.4817073170731707,0.6402439024390244,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Accuracy,0.7161716171617162,0.6666666666666666,0.7656765676567657,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Brier,0.1779306742356899,0.1609447892621658,0.19445385229789308,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Calibration intercept,-0.5292179881961456,-0.6140046739929489,-0.4450504352349646,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Calibration slope,1.9561427785932182,1.5611987378339482,2.5208743096223785,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Mean predicted risk,0.5676586645446066,0.5496900062291181,0.5857894717094351,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,cleveland,Observed prevalence,0.45874587458745875,0.45874587458745875,0.45874587458745875,Random forest,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,AUC,0.8747490967482938,0.8273271276595745,0.9132401645925331,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Sensitivity,0.9056603773584906,0.8488207547169812,0.9528301886792453,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Specificity,0.7393617021276596,0.675531914893617,0.7978723404255319,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Accuracy,0.7993197278911565,0.7517006802721088,0.8401360544217688,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Brier,0.16435748170118877,0.1439334725453406,0.1862160996299454,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Calibration intercept,-0.9063939603050811,-1.0359347844000109,-0.7675992710787459,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Calibration slope,1.3668871098398758,1.0883580387401557,1.7074009308490425,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Mean predicted risk,0.5173771116813464,0.4942830113860913,0.5409201578491303,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Random forest,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,AUC,0.7902173913043479,0.5782065217391305,0.9619836956521738,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Sensitivity,0.7217391304347827,0.6347826086956522,0.8,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Specificity,0.625,0.25,0.875,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Accuracy,0.7154471544715447,0.6420731707317073,0.7967479674796748,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Brier,0.16554551466198814,0.1397728227678573,0.19259975201056212,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Calibration intercept,2.444988523554748,2.2626374104217826,2.613806893318488,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Calibration slope,1.4657945340451495,0.4517487990435793,3.766452898667936,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Mean predicted risk,0.6228895619825596,0.5905202966899296,0.6549706253833651,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Random forest,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,AUC,0.735491512041058,0.649687458876168,0.8139228845900777,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Sensitivity,0.8456375838926175,0.785234899328859,0.9060402684563759,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Specificity,0.45098039215686275,0.3137254901960784,0.5882352941176471,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Accuracy,0.745,0.685,0.8,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Brier,0.17040165266925278,0.14466658470028187,0.19771888705800972,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Calibration intercept,0.46054153834039047,0.27909111880982573,0.6361071401550463,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Calibration slope,0.7372303210752204,0.4521711506287379,1.0910257402025616,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Mean predicted risk,0.672643338193199,0.6439393549646291,0.7023281903342949,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",rf,va,Observed prevalence,0.745,0.745,0.745,Random forest,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,AUC,0.8608966485348307,0.8172782505702755,0.9004660905422004,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Sensitivity,0.8201438848920863,0.7553956834532374,0.8848920863309353,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Specificity,0.7134146341463414,0.6463414634146342,0.7865853658536586,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Accuracy,0.7623762376237624,0.7161716171617162,0.8118811881188119,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Brier,0.15669403581095737,0.1336890351813492,0.1799654260688921,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Calibration intercept,-0.4075826095604212,-0.5645947603000684,-0.24495410076974447,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Calibration slope,1.079506647471138,0.8704731605074588,1.3695620855016684,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Mean predicted risk,0.5232130885124207,0.49696522429585455,0.5494042754173278,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,cleveland,Observed prevalence,0.45874587458745875,0.45874587458745875,0.45874587458745875,XGBoost,Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,AUC,0.871487354476114,0.8249159474106784,0.9091730228823766,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Sensitivity,0.8301886792452831,0.7547169811320755,0.8962264150943396,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Specificity,0.7340425531914894,0.6702127659574468,0.7925531914893617,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Accuracy,0.7687074829931972,0.7210884353741497,0.8129251700680272,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Brier,0.15199767504035577,0.12856747938867416,0.17812542059185993,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Calibration intercept,-0.8200200692079364,-1.0289039157637605,-0.6149194419568761,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Calibration slope,0.9451232275871573,0.7506844433168466,1.1970809504972966,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Mean predicted risk,0.47269102931022644,0.444548137485981,0.5018459841609001,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,XGBoost,Hungary
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,AUC,0.7619565217391304,0.5303532608695652,0.9510869565217391,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Sensitivity,0.7130434782608696,0.6260869565217392,0.7913043478260869,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Specificity,0.625,0.25,0.875,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Accuracy,0.7073170731707317,0.6260162601626016,0.7886178861788617,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Brier,0.18066408223569402,0.14632153138863768,0.2192805543207791,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Calibration intercept,2.6891990964562997,2.4101314336954704,2.9490301993029218,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Calibration slope,0.8933581214832798,0.19383997891942395,2.32790083750811,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Mean predicted risk,0.633938193321228,0.5898944765329361,0.6761172130703926,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,XGBoost,Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,AUC,0.7360836952230556,0.6511317278589288,0.8161731806816686,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Sensitivity,0.8456375838926175,0.785234899328859,0.8993288590604027,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Specificity,0.5294117647058824,0.39215686274509803,0.6666666666666666,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Accuracy,0.765,0.705,0.82,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Brier,0.17831774176984566,0.1456860799906599,0.21256109440574225,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Calibration intercept,0.403391456576269,0.12821879346062248,0.6784497109781049,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Calibration slope,0.5092848829280254,0.31458994239217,0.7533525160615022,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Mean predicted risk,0.6937463283538818,0.6576935648918152,0.7291385278105735,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",xgb,va,Observed prevalence,0.745,0.745,0.745,XGBoost,VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,AUC,0.8602386383576066,0.8158876557290753,0.899944069134936,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Sensitivity,0.8489208633093526,0.7913669064748201,0.9064748201438849,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Specificity,0.7012195121951219,0.6280487804878049,0.7682926829268293,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Accuracy,0.768976897689769,0.7194719471947195,0.8151815181518152,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Brier,0.1597964350062722,0.13515866147389785,0.1860150523638273,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Calibration intercept,-0.5109170227221242,-0.69074999728592,-0.32508568305045765,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Calibration slope,0.9549220603044848,0.7616581692807997,1.2303308285452632,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Mean predicted risk,0.5340609437436149,0.5059288756693453,0.5624830446325059,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,cleveland,Observed prevalence,0.45874587458745875,0.45874587458745875,0.45874587458745875,Neural network (MLP),Cleveland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,AUC,0.875451625853071,0.8293845343235648,0.9134898133279807,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Sensitivity,0.8490566037735849,0.7735849056603774,0.9150943396226415,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Specificity,0.7446808510638298,0.6808510638297872,0.8031914893617021,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Accuracy,0.782312925170068,0.7346938775510204,0.826530612244898,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Brier,0.15460936186441598,0.1312127983321141,0.17962758628674236,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Calibration intercept,-0.8989249212869005,-1.0811926813499024,-0.7093749050969108,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Calibration slope,1.047280063446897,0.8434862234190985,1.3017929707340283,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Mean predicted risk,0.49137579880345245,0.4652774783028753,0.5180084086426957,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,hungarian,Observed prevalence,0.36054421768707484,0.36054421768707484,0.36054421768707484,Neural network (MLP),Hungary
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,AUC,0.7152173913043478,0.49559782608695657,0.9054891304347824,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Sensitivity,0.7130434782608696,0.6345652173913043,0.7913043478260869,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Specificity,0.625,0.25,0.875,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Accuracy,0.7073170731707317,0.6260162601626016,0.7886178861788617,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Brier,0.1887241540546854,0.1512047052514413,0.2258886570240289,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Calibration intercept,2.7360700340714637,2.422722939794691,3.039399480759941,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Calibration slope,0.677486483458989,0.06765324830516017,1.5156529732926625,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Mean predicted risk,0.627763604390482,0.5844721043264218,0.6689928403801645,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,switzerland,Observed prevalence,0.9349593495934959,0.9349593495934959,0.9349593495934959,Neural network (MLP),Switzerland
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,AUC,0.7335175681010659,0.652839189367022,0.8090735623108303,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Sensitivity,0.8657718120805369,0.8053691275167785,0.9194630872483222,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Specificity,0.39215686274509803,0.2549019607843137,0.5294117647058824,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Accuracy,0.745,0.69,0.795,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Brier,0.17110214645130417,0.14327194588244063,0.20091136560994674,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Calibration intercept,0.2124485002382092,-0.03519289643156273,0.4527300309623188,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Calibration slope,0.5949979030601622,0.38672267372061686,0.8453543934453139,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Mean predicted risk,0.7166166700462501,0.6846033721699186,0.7497437990793862,Neural network (MLP),VA Long Beach
+Leave one site out,"10 features (no slope, ca, thal)",mlp,va,Observed prevalence,0.745,0.745,0.745,Neural network (MLP),VA Long Beach

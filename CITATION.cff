@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or analysis, please cite it as below, and cite the UCI Heart Disease dataset."
+title: "Does a heart disease model travel? Multi-centre validation on the UCI Heart Disease data"
+authors:
+  - family-names: Bagale
+    given-names: Anup
+version: 2.0.0
+date-released: 2026-10-11
+repository-code: "https://github.com/anupbagale/Heart_disease_prediction"
+references:
+  - type: dataset
+    title: "Heart Disease"
+    authors:
+      - family-names: Janosi
+        given-names: Andras
+      - family-names: Steinbrunn
+        given-names: William
+      - family-names: Pfisterer
+        given-names: Matthias
+      - family-names: Detrano
+        given-names: Robert
+    year: 1989
+    publisher:
+      name: "UCI Machine Learning Repository"
+    doi: 10.24432/C52P4X
+    license: CC-BY-4.0

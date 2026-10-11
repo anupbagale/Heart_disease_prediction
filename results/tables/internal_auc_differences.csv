@@ -1,0 +1,7 @@
+feature_set,model,comparison,difference,ci_low,ci_high
+All 13 features,Random forest,minus logistic regression,-0.0012633795402701153,-0.012173901123003816,0.009823104930689323
+All 13 features,XGBoost,minus logistic regression,-0.00554921916125628,-0.020276583611159932,0.008510922968941835
+All 13 features,Neural network (MLP),minus logistic regression,0.002478505000877429,-0.0008817336374803448,0.005488462888226111
+"10 features (no slope, ca, thal)",Random forest,minus logistic regression,-0.007084576241445872,-0.022008301895069207,0.0063517174065625326
+"10 features (no slope, ca, thal)",XGBoost,minus logistic regression,-0.010613704158624282,-0.026744823653272375,0.004347802246008122
+"10 features (no slope, ca, thal)",Neural network (MLP),minus logistic regression,0.001925776452009309,-0.0035545709773644294,0.007528513774346325

@@ -1,0 +1,23 @@
+,mean_abs_shap
+Vessels on fluoroscopy,0.90171736
+Chest pain: asymptomatic,0.7964424
+Thallium: normal,0.41123727
+Male sex,0.3906535
+ST depression,0.37671277
+Thallium: reversible defect,0.30678532
+ST slope: flat,0.29161683
+Cholesterol,0.28759155
+Age,0.28044996
+Max heart rate,0.25921735
+Exercise angina,0.21121795
+ST slope: upsloping,0.17608453
+Resting BP,0.1319338
+Resting ECG: normal,0.08306166
+Chest pain: non-anginal pain,0.07424197
+Resting ECG: LV hypertrophy,0.02445673
+Fasting glucose >120,0.0
+Chest pain: typical angina,0.0
+Chest pain: atypical angina,0.0
+Resting ECG: ST-T abnormality,0.0
+ST slope: downsloping,0.0
+Thallium: fixed defect,0.0

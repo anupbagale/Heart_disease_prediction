@@ -1,0 +1,30 @@
+feature_set,model,params,outer_folds
+All 13 features,logreg,"{""clf__C"": 1.0}",12
+All 13 features,logreg,"{""clf__C"": 0.1}",36
+All 13 features,logreg,"{""clf__C"": 10.0}",2
+All 13 features,rf,"{""clf__max_depth"": 5, ""clf__min_samples_leaf"": 5}",12
+All 13 features,rf,"{""clf__max_depth"": 3, ""clf__min_samples_leaf"": 5}",14
+All 13 features,rf,"{""clf__max_depth"": null, ""clf__min_samples_leaf"": 5}",13
+All 13 features,rf,"{""clf__max_depth"": 3, ""clf__min_samples_leaf"": 1}",5
+All 13 features,rf,"{""clf__max_depth"": null, ""clf__min_samples_leaf"": 1}",2
+All 13 features,rf,"{""clf__max_depth"": 5, ""clf__min_samples_leaf"": 1}",4
+All 13 features,xgb,"{""clf__max_depth"": 3, ""clf__min_child_weight"": 5}",21
+All 13 features,xgb,"{""clf__max_depth"": 2, ""clf__min_child_weight"": 5}",21
+All 13 features,xgb,"{""clf__max_depth"": 3, ""clf__min_child_weight"": 1}",3
+All 13 features,xgb,"{""clf__max_depth"": 2, ""clf__min_child_weight"": 1}",5
+All 13 features,mlp,"{""clf__alpha"": 10.0, ""clf__hidden_layer_sizes"": [32, 16]}",22
+All 13 features,mlp,"{""clf__alpha"": 10.0, ""clf__hidden_layer_sizes"": [16]}",28
+"10 features (no slope, ca, thal)",logreg,"{""clf__C"": 10.0}",6
+"10 features (no slope, ca, thal)",logreg,"{""clf__C"": 1.0}",35
+"10 features (no slope, ca, thal)",logreg,"{""clf__C"": 0.1}",9
+"10 features (no slope, ca, thal)",rf,"{""clf__max_depth"": 3, ""clf__min_samples_leaf"": 5}",10
+"10 features (no slope, ca, thal)",rf,"{""clf__max_depth"": null, ""clf__min_samples_leaf"": 5}",2
+"10 features (no slope, ca, thal)",rf,"{""clf__max_depth"": 3, ""clf__min_samples_leaf"": 1}",22
+"10 features (no slope, ca, thal)",rf,"{""clf__max_depth"": 5, ""clf__min_samples_leaf"": 1}",9
+"10 features (no slope, ca, thal)",rf,"{""clf__max_depth"": 5, ""clf__min_samples_leaf"": 5}",6
+"10 features (no slope, ca, thal)",rf,"{""clf__max_depth"": null, ""clf__min_samples_leaf"": 1}",1
+"10 features (no slope, ca, thal)",xgb,"{""clf__max_depth"": 3, ""clf__min_child_weight"": 5}",17
+"10 features (no slope, ca, thal)",xgb,"{""clf__max_depth"": 2, ""clf__min_child_weight"": 5}",28
+"10 features (no slope, ca, thal)",xgb,"{""clf__max_depth"": 2, ""clf__min_child_weight"": 1}",5
+"10 features (no slope, ca, thal)",mlp,"{""clf__alpha"": 10.0, ""clf__hidden_layer_sizes"": [16]}",13
+"10 features (no slope, ca, thal)",mlp,"{""clf__alpha"": 10.0, ""clf__hidden_layer_sizes"": [32, 16]}",37

@@ -1,0 +1,97 @@
+feature_set,setting,model,estimate,ci_low,ci_high
+"Trained on Cleveland
+All 13 features",Cleveland,logreg,0.9077557466222144,0.8746129803474294,0.9392016143183014
+"Trained on Cleveland
+All 13 features",Cleveland,rf,0.9064923670819443,0.8719234734163887,0.9374314024390243
+"Trained on Cleveland
+All 13 features",Cleveland,xgb,0.9022065274609581,0.8676238155816811,0.9340016888927882
+"Trained on Cleveland
+All 13 features",Cleveland,mlp,0.9102342516230918,0.8769164546411652,0.941384892086331
+"Trained on Cleveland
+All 13 features",Hungary,logreg,0.8935166599759133,0.8512984243275793,0.9303505118426335
+"Trained on Cleveland
+All 13 features",Switzerland,logreg,0.7478260869565218,0.5478260869565217,0.9130706521739128
+"Trained on Cleveland
+All 13 features",VA Long Beach,logreg,0.7028556388998553,0.618239242005527,0.7802375312541123
+"Trained on Cleveland
+All 13 features",Hungary,rf,0.8999397832195906,0.8592821657968688,0.9349194600562023
+"Trained on Cleveland
+All 13 features",Switzerland,rf,0.7739130434782608,0.6054076086956521,0.9326358695652172
+"Trained on Cleveland
+All 13 features",VA Long Beach,rf,0.7222002895117778,0.6390051322542439,0.799059086721937
+"Trained on Cleveland
+All 13 features",Hungary,xgb,0.895875150541951,0.8551786431152147,0.930250150541951
+"Trained on Cleveland
+All 13 features",Switzerland,xgb,0.7652173913043478,0.575,0.9391304347826087
+"Trained on Cleveland
+All 13 features",VA Long Beach,xgb,0.7186471904197921,0.6291617318068167,0.8010297407553625
+"Trained on Cleveland
+All 13 features",Hungary,mlp,0.889953833801686,0.8461423625050181,0.928595443596949
+"Trained on Cleveland
+All 13 features",Switzerland,mlp,0.7478260869565218,0.5532608695652174,0.9087228260869563
+"Trained on Cleveland
+All 13 features",VA Long Beach,mlp,0.6994341360705356,0.6163771548888012,0.7743189893407026
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Cleveland,logreg,0.8683716441480961,0.8282672398666432,0.9061253070714159
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Cleveland,rf,0.8612870679066502,0.819347911914371,0.9006108527811898
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Cleveland,xgb,0.8577579399894718,0.8148868770836988,0.897020858922618
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Cleveland,mlp,0.8702974206001054,0.82917825495701,0.9086725741358131
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Hungary,logreg,0.8782115616218387,0.8303881473303893,0.9171040746688077
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Switzerland,logreg,0.7576086956521739,0.6184782608695653,0.8923913043478261
+"Trained on Cleveland
+10 features (no slope, ca, thal)",VA Long Beach,logreg,0.7369390709303856,0.6513949203842611,0.8133964995394131
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Hungary,rf,0.8872440786832597,0.841929696908872,0.9235773785628262
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Switzerland,rf,0.7771739130434783,0.5826086956521739,0.9424184782608694
+"Trained on Cleveland
+10 features (no slope, ca, thal)",VA Long Beach,rf,0.7508882747729965,0.6702033162258192,0.8236642979339387
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Hungary,xgb,0.8801686069851465,0.8334441489361702,0.9170049678843838
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Switzerland,xgb,0.7619565217391304,0.5422554347826087,0.933695652173913
+"Trained on Cleveland
+10 features (no slope, ca, thal)",VA Long Beach,xgb,0.7507566785103303,0.6666600868535333,0.8280119094617713
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Hungary,mlp,0.8789642713769571,0.8331430650341229,0.9174653753512645
+"Trained on Cleveland
+10 features (no slope, ca, thal)",Switzerland,mlp,0.758695652173913,0.6151902173913043,0.8956521739130435
+"Trained on Cleveland
+10 features (no slope, ca, thal)",VA Long Beach,mlp,0.7381234372943808,0.652839189367022,0.814061060665877
+"Leave one site out
+10 features",Cleveland,logreg,0.8687050359712231,0.8265452272328478,0.9084554307773294
+"Leave one site out
+10 features",Hungary,logreg,0.8883480529907668,0.8445641810517864,0.9237818647129666
+"Leave one site out
+10 features",Switzerland,logreg,0.7326086956521739,0.5195652173913043,0.914157608695652
+"Leave one site out
+10 features",VA Long Beach,logreg,0.7507566785103303,0.6652158178707726,0.8251118568232662
+"Leave one site out
+10 features",Cleveland,rf,0.8640550973855062,0.8200122828566415,0.905423100543955
+"Leave one site out
+10 features",Hungary,rf,0.8747490967482938,0.8273271276595745,0.9132401645925331
+"Leave one site out
+10 features",Switzerland,rf,0.7902173913043479,0.5782065217391305,0.9619836956521738
+"Leave one site out
+10 features",VA Long Beach,rf,0.735491512041058,0.649687458876168,0.8139228845900777
+"Leave one site out
+10 features",Cleveland,xgb,0.8608966485348307,0.8172782505702755,0.9004660905422004
+"Leave one site out
+10 features",Hungary,xgb,0.871487354476114,0.8249159474106784,0.9091730228823766
+"Leave one site out
+10 features",Switzerland,xgb,0.7619565217391304,0.5303532608695652,0.9510869565217391
+"Leave one site out
+10 features",VA Long Beach,xgb,0.7360836952230556,0.6511317278589288,0.8161731806816686
+"Leave one site out
+10 features",Cleveland,mlp,0.8602386383576066,0.8158876557290753,0.899944069134936
+"Leave one site out
+10 features",Hungary,mlp,0.875451625853071,0.8293845343235648,0.9134898133279807
+"Leave one site out
+10 features",Switzerland,mlp,0.7152173913043478,0.49559782608695657,0.9054891304347824
+"Leave one site out
+10 features",VA Long Beach,mlp,0.7335175681010659,0.652839189367022,0.8090735623108303
